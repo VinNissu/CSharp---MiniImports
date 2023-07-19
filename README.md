@@ -7,3 +7,9 @@
 
 ### Brief Summary 
 
+Any slide to show for you about this project -> 
+->
+# 1-> Principal Main
+![image](https://github.com/VinNissu/CSharp---MiniImports/assets/110014684/d6009170-7e9a-478f-a85e-4ec1dd18b84a)
+
+# 2-> 
